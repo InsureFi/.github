@@ -1,14 +1,6 @@
 <div id="header" align="center">
   <img src ="https://insurefi.kodashub.com/wp-content/uploads/2023/06/cropped-InsureFii-removebg-preview-229x76.png" width="500" />
 </div>
-
-<h1 align="center">
-  Hey Everyone
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-# InsureFi
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/InsureFi/insurefi/blob/main/LICENSE)
 
 ## Welcome to InsureFi!
