@@ -45,7 +45,7 @@ This project is licensed under the [MIT](https://github.com/InsureFi/insurefi/bl
 
 ## Contact
 
-Have questions or need support? Reach out to us at [insurefi.kodashub.com](mailto:insurefi.kodashub.com). Visit our website at [www.insurefi.kodashub.com](https://www.insurefi.kodashub.com) for more information.
+Have questions or need support? Reach out to us at [our email](mailto:insurefi.kodashub.com). Visit our website at [InsureFi](https://www.insurefi.kodashub.com) for more information.
 
 Join us in revolutionizing the insurance industry with blockchain technology. Together, we can shape a future of trust, transparency, and innovation!
 
