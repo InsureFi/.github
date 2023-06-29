@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src ="https://insurefi.kodashub.com/wp-content/uploads/2023/06/cropped-InsureFii-removebg-preview-229x76.png" width="500" />
 </div>
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/InsureFi/insurefi/blob/main/LICENSE)
+
+
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/InsureFi/insurefi/blob/main/LICENSE)
+
 
 ## Welcome to InsureFi!
 
