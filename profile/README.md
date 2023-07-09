@@ -4,6 +4,9 @@
 
 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/InsureFi/insurefi/blob/main/LICENSE)
+</div>
+  <img src="https://komarev.com/ghpvc/?username=InsureFi&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 ## Welcome to InsureFi!
